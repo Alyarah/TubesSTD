@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735401806 source:d:\telu\semester 3\struktur data\code blocks\struktur data\praktikum\tugasbesar\main.cpp
+	<iostream>
+	"RutePengiriman.h"
+
+1735402017 d:\telu\semester 3\struktur data\code blocks\struktur data\praktikum\tugasbesar\rutepengiriman.h
+	<iostream>
+
+1735401989 source:d:\telu\semester 3\struktur data\code blocks\struktur data\praktikum\tugasbesar\rutepengiriman.cpp
+	"RutePengiriman.h"
+
